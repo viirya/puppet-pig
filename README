@@ -1,0 +1,8 @@
+
+Puppet module for deploying Apache Pig
+
+node 'your pig node' {
+    include java
+    include pig::node
+}
+
