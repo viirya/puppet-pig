@@ -1,9 +1,9 @@
 name    'viirya-pig'
-version '0.0.3'
+version '0.0.4'
 author 'Liang-Chi Hsieh'
 license 'MIT License'
 summary 'Install Apache Pig'
 description 'Install Apache Pig'
 project_page 'https://github.com/viirya/puppet-pig'
-dependency 'viirya/java', '0.0.4'
+dependency 'viirya/java', '0.0.5'
 
